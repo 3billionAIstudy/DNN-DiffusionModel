@@ -117,5 +117,5 @@ data distribution에서 random noise 가는 과정을 학습할 때 매우 조�
 이 논문에서는 noisy picture에서 Random motion을 거쳐 data distribution 위의 한 점으로 이동하게 하는 method를 학습한 것. 
 adversarial network도 필요 없음. 
 
-
 ## Results
+![result](Images/song_2019_result.PNG)
