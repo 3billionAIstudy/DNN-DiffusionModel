@@ -68,7 +68,7 @@ Image generation을 예시로 들었을 때, image의 pixel 정보를 모두 받
 [^3]: O.Ronneberger et al. "U-Net: Convolutional networks for biomedical image segmentation". *MICCAI*, (2015)
 [^4]: F. Yu et al. "Multi-scale context aggregation by dilated convolutions". *ICLR*. (2016)
 
-(Semantic Segmentation 예시)
+![annealed_langevin](Images/semantic_segmentation.PNG)
 
 Instance normalization [^5]
 
