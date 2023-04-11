@@ -47,7 +47,7 @@ noise level을 변화시키면서 gradient를 학습시켰다. (하지만 single
 가중치가 다른 두 분포가 섞여있을 때, 이 합성 분포의 gradient를 그대로 이용해 움직이는 입자는 low-density 영역을 넘어가지 못해 가중치를 적절히 반영하지 못합니다. 
 하지만 annealed Langevin dynamics를 적용한 경우에는 원래 sample을 그대로 복원한 것을 볼 수 있습니다. 
 
-![annealed_langevin](Images/annealed_langevin_experiment.PNG)
+![annealed_langevin](Images/annealed_langevin_experiment.png)
 
 [^1]: S.Kirkpatric et al. "Optimiation by simulated annealing". *Science* (1983)
 [^2]: R.M. Neal. "Annealed importance sampling". *Statistics and computing*. (2001)
